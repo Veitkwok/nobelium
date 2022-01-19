@@ -1,5 +1,5 @@
 const BLOG = {
-  title: 'Genosse WIZEMANN',
+  title: 'WIZEMANN',
   author: 'Veit Kwok',
   email: '',
   link: '',
@@ -11,7 +11,7 @@ const BLOG = {
   darkBackground: '#18181B', // use hex value, don't forget '#'
   path: '', // leave this empty unless you want to deploy Nobelium in a folder
   since: 2021, // If leave this empty, current year will be used.
-  postsPerPage: 7,
+  postsPerPage: 15,
   sortByDate: false,
   showAbout: false,
   showArchive: true,
